@@ -1,3 +1,3 @@
-# buildout.healthdev
+# buildout.coredev
 
-Buildout for senaite.health development
+Buildout for senaite.core development

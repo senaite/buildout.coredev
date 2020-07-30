@@ -6,7 +6,6 @@
 .mr.developer.cfg
 textindexng3.log
 bin/
-buildout.cfg
 develop-eggs/
 eggs/
 include/
