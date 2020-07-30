@@ -1,0 +1,17 @@
+*.pyc
+*.pyo
+*.mo
+.Python
+.installed.cfg
+.mr.developer.cfg
+textindexng3.log
+bin/
+buildout.cfg
+develop-eggs/
+eggs/
+include/
+lib/
+parts/
+pyvenv.cfg
+src/
+var/
